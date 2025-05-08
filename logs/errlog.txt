@@ -1,2 +1,42 @@
-02/05/2025	10:58:04	0e5225cd-0a6f-4679-961b-14a53b14d286	TypeError : fsPromises.readFil is not a function
+03/14/2025	12:16:44	a8e1aa2e-7632-410a-a8d8-7714f5d1cb55	Error: Not allowed by CORS
+
+04/18/2025	17:24:10	e61fe64f-740f-4082-b485-52b842217b67	TypeError: Cannot read properties of undefined (reading 'find')
+
+04/18/2025	17:24:30	073e6996-7e49-403d-bfd0-2830a8adbcd6	TypeError: Cannot read properties of undefined (reading 'find')
+
+04/19/2025	10:44:49	3ba2d6bf-dc98-44ed-b7c8-b5e45f68be14	SyntaxError: Unexpected token ''', "{"user":'pizzi11',"... is not valid JSON
+
+04/22/2025	15:20:53	2bd868ce-4334-446a-b209-59827039ff83	ReferenceError: user is not defined
+
+04/22/2025	15:23:35	5adc1ae4-6ed2-43ea-b930-f80c1462e87b	ReferenceError: user is not defined
+
+04/22/2025	15:23:56	54584a1d-aea1-402b-8c80-5f9bf5433971	ReferenceError: user is not defined
+
+04/22/2025	15:25:42	b3353ad0-530b-42ae-8887-8e47fe645b7a	ReferenceError: user is not defined
+
+04/23/2025	13:33:18	8e50e2b9-b904-46a0-936d-2c2102671a02	TypeError: Cannot read properties of undefined (reading 'REFRESH_TOKEN_SECRET')
+
+04/29/2025	12:43:57	b03fbcb0-f46c-400c-9ffb-593a487e882c	TypeError: Cannot read properties of undefined (reading 'startWith')
+
+04/29/2025	12:44:25	f532ffca-26f8-4194-8b7d-e8eeef74efaa	TypeError: Cannot read properties of undefined (reading 'startWith')
+
+04/29/2025	12:44:38	67519c46-7cbf-43d2-8629-3a9df57c215f	TypeError: Cannot read properties of undefined (reading 'startWith')
+
+04/29/2025	12:45:04	6173d39b-fe53-4b07-896b-2e92675700d9	TypeError: Cannot read properties of undefined (reading 'startWith')
+
+04/29/2025	12:47:42	b2b1ea13-383c-4e48-8180-5e073cf2284c	TypeError: Cannot read properties of undefined (reading 'startWith')
+
+04/29/2025	12:48:25	a1d34ca0-abdb-4b1a-8a74-c4730c0b46e2	TypeError: Cannot read properties of undefined (reading 'startWith')
+
+04/29/2025	14:28:29	dd3a84f0-d480-4c2b-a458-82423f1fa646	TypeError: Cannot read properties of undefined (reading 'startsWith')
+
+04/29/2025	14:38:05	0617de28-1c32-4d71-84cd-841e21dbb9fe	TypeError: Cannot read properties of undefined (reading 'startswith')
+
+04/29/2025	14:41:41	39182afd-c8ea-4009-8f0d-72ff2787705c	TypeError: Cannot read properties of undefined (reading 'startsWith')
+
+05/04/2025	21:31:46	4300a012-ee9a-4ea3-a5eb-6bdb58e5f3fa	TypeError: Cannot read properties of undefined (reading 'id')
+
+05/04/2025	21:37:57	d5a813c8-d691-4906-bf4d-72987b04537f	TypeError: Cannot read properties of undefined (reading 'id')
+
+05/04/2025	21:41:29	2a1761af-7bf0-44d0-a3ac-aee6e95801aa	TypeError: Cannot read properties of undefined (reading 'id')
 
