@@ -1,6 +1,5 @@
 const mongoos = require('mongoose');
-const { Editor } = require('../config/roles_list');
-const schema = mongoos.Schema;
+const Schema = mongoos.Schema;
 
 const userSchema = new Schema({
   username: {

@@ -1,5 +1,5 @@
 const mongoos = require('mongoose');
-const schema = mongoos.Schema;
+const Schema = mongoos.Schema;
 
 const employeeSchema = new Schema({
   firstname: {
